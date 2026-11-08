@@ -1,10 +1,11 @@
 # SISTEMAS OPERACIONAIS
-* ***CURSO:*** TADS IFPR-Foz 
-* ***PROFESSOR:*** Marcos Roque da Rosa 
-* ***SEMESTRE:*** 2º
-* ***HORA AULA:*** 80h
-* ***HORA RELOGIO:*** 67h
-* ### ***NOTA: Esse repositorio contem apenas as aulas de Shell Script[por enquanto]***
+* **CURSO:** TADS IFPR-Foz 
+* **PROFESSOR:** Marcos Roque da Rosa 
+* **SEMESTRE:** 2º
+* **HORA AULA:** 80h
+* **HORA RELOGIO:** 67h
+
+* **TECNOLOGIAS:** Linux Ubuntu, Shell Script
 
 ### Objetivo:
 Fornecer subsídios para o aluno compreender a estrutura básica de organização
